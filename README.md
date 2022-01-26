@@ -9,7 +9,11 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - [Uçak Bileti Fiyatı Hesaplama](https://app.patika.dev/moduller/java101/odev-ucak-bileti)
 - [Çin Zodyağı Hesaplama](https://app.patika.dev/moduller/java101/odev-cin-zodyagi)
 - [Artık Yıl Hesaplama](https://app.patika.dev/moduller/java101/odev-artik-yil)
-- 
+- [Girilen Sayılardan Min ve Max Değerleri Bulma](https://github.com/smyy96/PatikaJava101/blob/main/buyukKucukSayi.java)
+- [Mükemmel Sayı](https://app.patika.dev/moduller/java101/odev-mukemmel-sayi)
+- [Ters Üçgen Yapımı](https://app.patika.dev/moduller/java101/odev-ters-ucgen)
+- [Asal Sayı](https://app.patika.dev/moduller/java101/odev-asal-sayi)
+- [Fibonacci Serisi](https://app.patika.dev/moduller/java101/odev-fibo)
 
 ### Pratikler
 
