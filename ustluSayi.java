@@ -5,11 +5,11 @@ public class ustluSayi {
         int n, r,sum=1;
         System.out.print("Sayi : ");
         n = input.nextInt();
-        System.out.print("Üst : ");
+        System.out.print("Üssü : ");
         r = input.nextInt();
         for(int i=0;i<r;i++) {
             sum*=n;
         }
-        System.out.println(n + " üstü " + r + " = " +sum);
+        System.out.println(n + " üssü " + r + " = " +sum);
     }
 }
