@@ -13,19 +13,22 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 
 ### Pratikler
 
+- ATM
+- Ebob Ekok
 - Hesap Makinesi
 - Kullanıcı Girişi
 - Sınıfı Geçme Durumu
 - Hava Sıcaklığına Göre Etkinlik Önerme
 - Sayıları Büyükten Küçüğe Sıralama
 - Burç Bulan Program
-- Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
-- 3 ve 4'e tam bölünen sayıların ortalamasını hesaplama.
-- Tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden 
-  çift ve 4'ün katları olan sayıları toplayıp ekrana basan program.
-- Girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program.
 - Kombinasyon hesaplayan program.
 - Üslü sayı hesaplayan program. (For)
-- Bir sayının basamak sayılarının toplamını hesaplayan program.
 - Harmonik Sayı.
 - Yıldızlar ile elmas deseni.
+- Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
+- 3 ve 4'e tam bölünen sayıların ortalamasını hesaplama.
+- Bir sayının basamak sayılarının toplamını hesaplayan program.
+- Girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program.
+- Tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve girilen değerlerden 
+  çift ve 4'ün katları olan sayıları toplayıp ekrana basan program.
+
