@@ -26,3 +26,6 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - Girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program.
 - Kombinasyon hesaplayan program.
 - Üslü sayı hesaplayan program. (For)
+- Bir sayının basamak sayılarının toplamını hesaplayan program.
+- Harmonik Sayı.
+- Yıldızlar ile elmas deseni.
