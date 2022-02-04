@@ -14,6 +14,9 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - [Ters Üçgen Yapımı](https://app.patika.dev/moduller/java101/odev-ters-ucgen)
 - [Asal Sayı](https://app.patika.dev/moduller/java101/odev-asal-sayi)
 - [Fibonacci Serisi](https://app.patika.dev/moduller/java101/odev-fibo)
+- [Üs Hesabı Yapan Program](https://app.patika.dev/moduller/java101/odev-recursive-power)
+- [Asal Sayı Bulan Program](https://app.patika.dev/moduller/java101/odev-recursive-prime)
+- 
 
 ### Pratikler
 
@@ -22,6 +25,8 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - Hesap Makinesi
 - Kullanıcı Girişi
 - Sınıfı Geçme Durumu
+- Palindrom Sayılar
+- Gelişmiş Hesap Makinesi
 - Hava Sıcaklığına Göre Etkinlik Önerme
 - Sayıları Büyükten Küçüğe Sıralama
 - Burç Bulan Program
