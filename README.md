@@ -23,17 +23,19 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 
 - ATM
 - Ebob Ekok
+- Boks Oyunu
 - Hesap Makinesi
 - Kullanıcı Girişi
-- Sınıfı Geçme Durumu
+- Harmonik Sayı.
 - Palindrom Sayılar
+- Sınıfı Geçme Durumu
+- Burç Bulan Program
 - Gelişmiş Hesap Makinesi
+- Öğrenci Bilgi Sistemi
 - Hava Sıcaklığına Göre Etkinlik Önerme
 - Sayıları Büyükten Küçüğe Sıralama
-- Burç Bulan Program
 - Kombinasyon hesaplayan program.
 - Üslü sayı hesaplayan program. (For)
-- Harmonik Sayı.
 - Yıldızlar ile elmas deseni.
 - Girilen Sayıya Kadar Olan Çift Sayıları Bulan Program
 - 3 ve 4'e tam bölünen sayıların ortalamasını hesaplama.
