@@ -17,6 +17,7 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - [Üs Hesabı Yapan Program](https://app.patika.dev/moduller/java101/odev-recursive-power)
 - [Asal Sayı Bulan Program](https://app.patika.dev/moduller/java101/odev-recursive-prime)
 - [Desene Göre Metot Oluşturma](https://app.patika.dev/moduller/java101/odev-recursive-pattern)
+- [Maaş Hesaplayıcı](https://app.patika.dev/moduller/java101/odev-employee)
 
 
 ### Pratikler
