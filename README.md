@@ -18,6 +18,9 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - [Asal Sayı Bulan Program](https://app.patika.dev/moduller/java101/odev-recursive-prime)
 - [Desene Göre Metot Oluşturma](https://app.patika.dev/moduller/java101/odev-recursive-pattern)
 - [Maaş Hesaplayıcı](https://app.patika.dev/moduller/java101/odev-employee)
+- [Dizideki Elemanları Sıralama](https://app.patika.dev/moduller/java101/odev-array-order)
+- [Matris Transpozu](https://app.patika.dev/moduller/java101/odev-array-transpose)
+- [Dizideki Elemanların Frekansı](https://app.patika.dev/moduller/java101/odev-array-count)
 
 
 ### Pratikler
@@ -27,7 +30,8 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - Boks Oyunu
 - Hesap Makinesi
 - Kullanıcı Girişi
-- Harmonik Sayı.
+- Harmonik Sayı
+- Harmonik Ortalama
 - Palindrom Sayılar
 - Sınıfı Geçme Durumu
 - Burç Bulan Program
