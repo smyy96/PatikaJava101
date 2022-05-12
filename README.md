@@ -21,6 +21,7 @@ Patika eğitim platformundaki java 101 dersinin ödevleri ve pratikler.
 - [Dizideki Elemanları Sıralama](https://app.patika.dev/moduller/java101/odev-array-order)
 - [Matris Transpozu](https://app.patika.dev/moduller/java101/odev-array-transpose)
 - [Dizideki Elemanların Frekansı](https://app.patika.dev/moduller/java101/odev-array-count)
+- [Mayın Tarlası Oyunu](https://app.patika.dev/courses/java101/bitirme-mayin-tarlasi)
 
 
 ### Pratikler
